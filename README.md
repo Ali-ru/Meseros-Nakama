@@ -1,2 +1,0 @@
-# Meseros-Nakama
-revicion
